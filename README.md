@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Zachary Turney
-- 👀 I’m interested in Front End Web Development.
-- 🌱 I’m currently learning HTML/CSS/JavaScript.
-- 💞️ I’m looking to collaborate on projects within my knowledge scope to further my abilities.
+Enthusiastic professional with 6 years of experience in team collaboration and providing quality results. Eager to apply recent studies in Front-End Web Development and leadership, project management, and problem-solving skills to promote accessibility in website design and purpose within the software engineering field.
 
 <!---
 turneyz/turneyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
